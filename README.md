@@ -11,8 +11,6 @@
 
 ## **INTRODUCTION**
 
-**CONTEXT:**
-
 On December 31, 2019, Chinese officials informed the first case of COVID-19 in Wuhan (China). Around the end of January, 2020, many countries (the US, the UK, South Korea, etc.), including Vietnam, reported their first COVID-19 cases.
 
 While the number of confirmed cases and deaths has exponentially risen in other countries, **Vietnam currently only has 270 COVID-19 cases in TOTAL and NO FATALITIES**.
@@ -24,12 +22,12 @@ The tradeoff in personal privacy, in this circumtance, provides the data science
 I hope this analysis will give you some inspirations on the topic.
 
 
-**DATA COLLECTION:**
+## **DATA COLLECTION:**
 
 Data was acquired by web scrapping with manually curated from the Vietnam Ministry of Health's website (https://ncov.moh.gov.vn/) and other mainstream media in Vietnam (cited specifically in each data row).
 
 
-**DISCLAIMER:**
+## **DISCLAIMER:**
 
 * This is my personal work with no link to any organization. Although this analysis is data-driven and hence provides some insights about the government strategy as well as patient characteristics in Vietnam, my comments reflect my personal perspectives.
 * My results are based on the data collected from the Vietnam Health Ministry website and the mainstream media in Vietnam. Therefore, the data is likely to be biased and reflects what is publicly available on the internet. However, it can served as a good reference for someone who are curious about the COVID-19 pandemic in Vietnam.
