@@ -35,4 +35,4 @@ Data was acquired by web scrapping with manually curated from the Vietnam Minist
 ### **FILES INCLUDED IN THIS REPOSITORY**
 - Jupyter notebook for Vietnam COVID-19 dataset (**COVID_19_Vietnam_Data_EDA_and_Visualization.ipynb**). This notebook need to go together with the folder 'data'. The html version of this notebook was also included (COVID_19_Vietnam_Data_EDA_and_Visualization.html).
 
-- Jupyter notebook for global data (**COVID_19_The_world_data_EDA_and_Visualization.ipynb**). When run, this notebook will download the global data from [the Johns Hopkins University (the CSSEGI) site](https://github.com/CSSEGISandData/COVID-19). The html version of this notebook was also included (COVID_19_The_world_data_EDA_and_Visualization.html).
+- Jupyter notebook for global data (**COVID_19_The_world_data_EDA_and_Visualization.ipynb**). This notebook will download the updated COVID-19 global data from [the Johns Hopkins University (the CSSEGI) site](https://github.com/CSSEGISandData/COVID-19). The html version of this notebook was also included (COVID_19_The_world_data_EDA_and_Visualization.html).
